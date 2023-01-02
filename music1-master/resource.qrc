@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/left.ico</file>
+    <file>icons/right.ico</file>
+    <file>icons/search.ico</file>
+    <file>icons/start.ico</file>
+    <file>icons/stop.ico</file>
+  </qresource>
+</RCC>
