@@ -8,4 +8,6 @@ PyCharm kurarken her şeyi ekleyin. PyCharm'da projeyi açıktan sonra konsolu a
 
 File -> Settings -> Project:___ -> Pyhton Interpreter kısmına girerek eğer ekli değilse aşağıdakileri ekleyiniz: PyQt5 5.15.7 PyQt5-Qt5 5.15.2 PyQt5-sip 12.11.0 beautifulsoup4 4.11.1
 
-Kurulumu gerekli kütüphaneler pycharm idesinin altındaki packages bölmesinden istege baglı olarak yukardaki adımlar yerine bu yol tercih de edilebilir!!. İletisim:05544841070
+Kurulumu gerekli kütüphaneler pycharm idesinin altındaki packages bölmesinden istege baglı olarak yukardaki adımlar yerine bu yol tercih de edilebilir!!. 
+Uygulamayı çalıştırırken main.py dosyasından çalıştırmanız lazım
+İletisim:05544841070
